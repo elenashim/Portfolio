@@ -1,9 +1,15 @@
 @import url('https://fonts.googleapis.com/css?family=Cinzel|Hepta+Slab&display=swap');
 
-h1 {
+body {
   font-family: 'Cinzel', serif;
-  
-  
-  
-  
+  background image: url("https://www.bing.com/images/search?view=detailV2&ccid=ltpqImh4&id=7BD712FB0FE23E497D6A8656E4D89F87E1182123&thid=OIP.ltpqImh4P9a0yi47nmHiUwHaHa&mediaurl=https%3a%2f%2fimg0.etsystatic.com%2f123%2f0%2f6206871%2fil_570xN.869051164_gp8u.jpg&exph=570&expw=570&q=Peach+Watercolor+Background&simid=608044884341295049&selectedIndex=10&ajaxhist=0");
 }
+
+h1 {
+  color:#CAF086;
+}
+
+p  {
+  font-style: italic;
+  font-size: 8px;
+  color: #f0D19E
