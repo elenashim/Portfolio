@@ -7,8 +7,8 @@ body {
 
 h1 {
   color:#CAF086;
+  border: 5px dotted pink;
 }
-
 p  {
   font-style: italic;
   font-size: 10px;
