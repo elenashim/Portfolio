@@ -6,6 +6,7 @@ body {
 }
 
 h1 {
+  float: left;
   color:#CAF086;
   border: 5px dotted pink;
 }
