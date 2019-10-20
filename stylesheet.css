@@ -14,3 +14,25 @@ p  {
   font-style: italic;
   font-size: 10px;
   color: #67d949 
+}
+
+.navbar{
+  overflow: hidden;
+  background-color: ;
+}
+
+.navbar a {
+  float:left;
+  display: block;
+  color: #3A8C8C;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  list-style-type: none;
+}
+
+.navbar a:hover {
+  background-color:#F0DCF7;
+  color: black;
+}
